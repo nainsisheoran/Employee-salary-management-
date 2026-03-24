@@ -1,0 +1,14 @@
+Employee details:
+
+Employee name: John
+Employee id: 101
+Employee salary: 30000
+
+----------------------------
+Manager details:
+
+Manager name: Alice
+Manager id: 201
+Manager salary: 50000
+Manager bonus: 10000
+Manager total salary: 60000
